@@ -17,7 +17,7 @@ This project used machine learning and neural network algorithms to classify whe
 
 [Text Classification](https://github.com/mdjoh/Online-Orders-Text-Classification)
 
-The objective of this project was to classify text from online orders using NLP. Shallow, hybrid, and deep methods were explored with deep methods using Transformers and the RoBERTa base language model yielding the best adjusted mutual information (AMI) score of 0.9381. Text preprocessing and other pre-trained language models were explored however, only tuning the number of epochs and batch size during training resulted in the highest AMI score.
+The objective of this project was to classify text from online orders using natural language processing (NLP). Shallow, hybrid, and deep methods were explored with deep methods using Transformers and the RoBERTa base language model yielding the best adjusted mutual information (AMI) score of 0.9381. Text preprocessing and other pre-trained language models were explored however, only tuning the number of epochs and batch size during training resulted in the highest AMI score.
 
 [Inventory Optimization using Reinforcement Learning](https://github.com/mdjoh/RL-project)
 
