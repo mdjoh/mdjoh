@@ -4,7 +4,7 @@ Thanks for visiting my GitHub page!
 
 💬 **About me:**
 - Versatile problem solver looking to tackle complex problems in analytics and AI
-- Upcoming MMAI graduate (class of '22) at the Smith School of Business
+- Master of Management in Artificial Intelligence (MMAI) from the Smith School of Business
 - MSc in biomechanics from Queen's University
 - (Very) Amateur golfer
 - Always on the search for great restaurants
