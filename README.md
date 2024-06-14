@@ -3,7 +3,8 @@
 Thanks for visiting my GitHub page!
 
 💬 **About me:**
-- Versatile problem solver looking to tackle complex problems in analytics and AI
+- Versatile problem solver looking to tackle complex problems in data analytics and AI
+- AWS and Tableau certified
 - Master of Management in Artificial Intelligence (MMAI) from the Smith School of Business
 - MSc in biomechanics from Queen's University
 - (Very) Amateur golfer
