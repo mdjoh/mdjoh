@@ -12,6 +12,10 @@ Thanks for visiting my GitHub page!
 
 ## Projects
 
+[Medical Diagnosis using Generative AI](https://github.com/mdjoh/HealthBot-GenAI)
+
+This is a proof-of-concept application leveraging a fine-tuned large language model (LLM) to generate medical diagnoses based on symptons entered by a user.
+
 [Predicting Diabetes Diagnosis](https://github.com/mdjoh/diabetes-classification)
 
 This project used machine learning and neural network algorithms to classify whether a person has diabetes. Using a neural network produced the best prediction score (macro F1 score) of 0.77229.
