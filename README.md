@@ -3,12 +3,12 @@
 Thanks for visiting my GitHub page!
 
 💬 **About Me:**
-- Versatile problem solver looking to tackle complex problems in research and development, sports science, data science, machine learning, and AI 💻📈🤖
+- Versatile problem solver looking to tackle complex problems in research and development, sports science, health, data science, machine learning, and AI 💻📈🤖
 - AWS and Tableau certified ☁️📊
 - Master of Management in Artificial Intelligence (MMAI) from the Smith School of Business
 - MSc in Biomechanics from Queen's University
 - (Very) Amateur golfer 🏌️
-- Sports lover ⚾⚽🏒🎾🏀
+- Sports lover ⚾⚽🏒🎾🏀🏋️
 - Always on the search for great restaurants 🍽️
 
 ## Projects
