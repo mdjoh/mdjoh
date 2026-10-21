@@ -33,6 +33,10 @@ Exploring the biomechanics of pitching and hitting
 
 We used reinforcement learning to optimize inventory control. Taking random actions led to losses approaching $8,000 which highlighted the need for a policy. While both algorithms converged at a profit, the proximal policy optimization (PPO) algorithm converged at a higher reward (approximately $8,000) than the advantage actor critic (A2C) algorithm.
 
+[American Sign Language Recognition](https://github.com/mdjoh/ASL-ImageClassification)
+
+Using deep learning, specifically convolutional neural networks (CNN), American Sign Language (ASL) gestures were identified. Various neural network architectures were explored.
+
 <!--
 **mdjoh/mdjoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
